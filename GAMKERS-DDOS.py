@@ -36,7 +36,7 @@ print ("_________0100100 BYPASSING SECURITY LAYER 001010_______________")
 time.sleep(5)
 print ("_________________CONNECTION ESTABLISHED________________________")
 time.sleep(5)
-print "    DDOS ATTACK STARTED. NOTE: ONLY FOR EDUCATIONAL PURPOSES"
+print ("    DDOS ATTACK STARTED. NOTE: ONLY FOR EDUCATIONAL PURPOSES")
 time.sleep(3)
 sent = 0
 while True:
