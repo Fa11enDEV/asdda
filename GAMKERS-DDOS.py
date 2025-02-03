@@ -28,13 +28,13 @@ os.system("clear")
 os.system("figlet GMKR-Ddos")
 print("Team : GAMKERS")
 print ("\033[92m")
-print "________________TRYING TO REACH THE SERVER_____________________"
+print ("________________TRYING TO REACH THE SERVER_____________________")
 time.sleep(5)
-print "_________________ESTABLISHING CONNECTION_______________________"
+print ("_________________ESTABLISHING CONNECTION_______________________")
 time.sleep(5)
-print "_________0100100 BYPASSING SECURITY LAYER 001010_______________"
+print ("_________0100100 BYPASSING SECURITY LAYER 001010_______________")
 time.sleep(5)
-print "_________________CONNECTION ESTABLISHED________________________"
+print ("_________________CONNECTION ESTABLISHED________________________")
 time.sleep(5)
 print "    DDOS ATTACK STARTED. NOTE: ONLY FOR EDUCATIONAL PURPOSES"
 time.sleep(3)
